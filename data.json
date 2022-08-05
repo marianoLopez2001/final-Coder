@@ -1,0 +1,16 @@
+[
+    { "id": 1, "nombre": "Leche", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "una remera...", "categoria": "Bebible", "precio": 200, "stock": true },
+    { "id": 2, "nombre": "Huevos", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un pantalon...", "categoria": "Comestible", "precio": 250, "stock": true },
+    { "id": 4, "nombre": "Jamon", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Comestible", "precio": 350, "stock": true },
+    { "id": 5, "nombre": "Queso", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Comestible", "precio": 400, "stock": true },
+    { "id": 6, "nombre": "Pan lactal", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Comestible", "precio": 250, "stock": false },
+    { "id": 7, "nombre": "Harina", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Comestible", "precio": 150, "stock": true },
+    { "id": 8, "nombre": "Mayonesa", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Aderezo", "precio": 150, "stock": true },
+    { "id": 9, "nombre": "Agua", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Bebible", "precio": 100, "stock": true },
+    { "id": 10, "nombre": "Coca Cola", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Bebible", "precio": 300, "stock": true },
+    { "id": 11, "nombre": "Oreos", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Galletitas", "precio": 300, "stock": true },
+    { "id": 12, "nombre": "Sprite", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Bebible", "precio": 150, "stock": false },
+    { "id": 13, "nombre": "Sonrisas", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Galletitas", "precio": 250, "stock": true },
+    { "id": 14, "nombre": "Rollo de cocina", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Limpieza", "precio": 400, "stock": true },
+    { "id": 15, "nombre": "Jabon liquido", "img": "../public/images/agua.webp", "cantidad": 1, "descripcion": "un buzo...", "categoria": "Limpieza", "precio": 800, "stock": true }
+]
